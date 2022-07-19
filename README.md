@@ -10,3 +10,5 @@ Mr Poll Bot TOS
 `3.` You may not use Mr Poll to intentionally harrass or discriminate against other users.
 
 `4.` You may not use Mr Poll to spread false information
+
+**If at any point these rules are violated your discord account will be blacklisted and banned from our discord server.**
