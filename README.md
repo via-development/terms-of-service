@@ -1,5 +1,7 @@
-# Terms
+# Terms 
 Mr Poll Bot TOS
+
+**Mr Poll along with its associated discord servers abide by [Discord TOS](https://discord.com/tos) & [Community Guidelines](https://discord.com/guidelines)**
 
 `1.` You may not spam any of the bot commands in a way to crash any of the clusters/shards or the entire bot itself.
 > Any kind of spamming of commands would result in a blacklist.
@@ -11,4 +13,4 @@ Mr Poll Bot TOS
 
 `4.` You may not use Mr Poll to spread false information
 
-**If at any point these rules are violated your discord account will be blacklisted and banned from our discord server.**
+**If at any point these rules are violated your discord account will be blacklisted from Mr ~~Studios~~ Poll related bots including a ban from our discord.**
