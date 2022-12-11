@@ -13,4 +13,6 @@ Mr Poll Bot TOS
 
 `4.` You may not use Mr Poll to spread false information
 
+
+**Mr Poll Studio's Rules also apply along with this TOS.**
 **If at any point these rules are violated your discord account will be blacklisted from any bots related to Mr Poll related bots including a ban from our discord.**
