@@ -1,5 +1,4 @@
-# Terms 
-Mr Poll Bot TOS
+# Mr Poll Bot Terms 
 
 **Mr Poll along with its associated discord servers abide by [Discord TOS](https://discord.com/tos) & [Community Guidelines](https://discord.com/guidelines)**
 
