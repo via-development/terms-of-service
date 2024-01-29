@@ -1,5 +1,5 @@
 # Via Development Terms of Service
-*Effective Date: January 1st, 2038*
+*Effective Date: January 29th, 2024*
 
 ## 1. Introduction
 Thank you for using Via Development's services! By using our services, you agree to comply with our Terms of Service.  These terms are in place to ensure that you use our services responsibly, securely, and in accordance with the guidelines provided below.
@@ -54,4 +54,4 @@ Via Development is not liable or responsible for any direct, indirect, incidenta
 
 **Contact Information**
 
-If you would like to ask any questions or concerns regarding these Terms, please contact us either in our [discord server](https://mrpoll.dev/support) or at legal@something.com
+If you would like to ask any questions or concerns regarding these Terms, please contact us either in our [discord server](https://mrpoll.dev/support) or at contact@viadev.xyz
