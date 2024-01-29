@@ -51,5 +51,7 @@ The services are provided "as is" without any warranty. Via Development disclaim
 Via Development is not liable or responsible for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use the services provided.
 
 <hr>
-Contact Information
-If you would like to ask any questions or concerns regarding these Terms, please contact us either in our [discord server] or at legal@something.com
+
+**Contact Information**
+
+If you would like to ask any questions or concerns regarding these Terms, please contact us either in our [discord server](https://mrpoll.dev/support) or at legal@something.com
